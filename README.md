@@ -1,7 +1,4 @@
 # Word-Guess-Game
-homework week 3
-
-The third homework for web developer's bootcamp is a simple hang man word guessing game.
 
 After going into the page, begin by guessing a letter based on the initial word "_ _ _ _" that you will be guessing.
 

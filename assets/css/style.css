@@ -1,0 +1,29 @@
+body {
+    /* background-color: black; */
+    background-image: url("../images/political_world_map_1200.jpg");
+    position: relative;
+}
+
+.container {
+    margin: auto;
+    background-color: white;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    width: 50%;  
+    margin-top: 50px;
+    background-image: url("../images/128-109.jpg");
+    color: white;
+}
+
+h1 {
+    margin: auto;
+    background-color: lightblue;
+    text-align: center;
+    width: 50%;
+    color: green;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
